@@ -19,7 +19,7 @@
             <fileNamePattern>logs/application.%d{yyyy-MM-dd}.log</fileNamePattern>
 
             <!-- keep 1 days' worth of history -->
-            <maxHistory>5</maxHistory>
+            <!--<maxHistory>5</maxHistory>-->
         </rollingPolicy>
 
         <encoder>
