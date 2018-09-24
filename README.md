@@ -7,6 +7,7 @@ Configured with RollingFileAppender and  ConsoleAppender.
 
 ConsoleAppender has Ansi Colors inspired by Spring boot.
 
+![LOG](color-log.png)
 ### License
 Copyright (C) 2018 Mind Consulting
 
